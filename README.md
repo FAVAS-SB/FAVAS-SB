@@ -37,4 +37,3 @@
 
 <p align="center">
 
-# CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
