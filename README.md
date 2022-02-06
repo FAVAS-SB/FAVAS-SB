@@ -6,7 +6,7 @@
 
 # FAVAS-SB
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+FAVAS-SB+WA+BOT+WORLD;Created+by+Favas;This+is+a+Featured+bot;With+Love+FAVAS-SB)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+To+My+Profile+💖;Created+by+Favas;With+Love+FAVAS-SB)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,9 @@
 
     
 
-<h3 align="center">𝑴𝒂𝒅𝒆 𝑾𝒊𝒕𝒉 𝐅𝚨𝛁𝚨𝐒</h3>
+<h3 align="center"> 
+ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ   ʙ ʏ  ғ ᴀ ᴠ ᴀ s
+</h3>
 
 <p align="center">
 
