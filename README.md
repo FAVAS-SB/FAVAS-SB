@@ -26,7 +26,6 @@
 
 <p align="center">
 
-  <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/0xTID1V.jpeg" height="128" width="128" /></a>
   <a href="https://github.com/FAVAS-SB"><img src="https://i.imgur.com/FA9DZzH.jpeg" height="128" width="128" /></a>
 
 
