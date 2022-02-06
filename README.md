@@ -27,7 +27,7 @@
     
 
 <h3 align="center"> 
-ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ   ʙ ʏ  ғ ᴀ ᴠ ᴀ s
+ᴄ ʀ ᴇ ᴀ ᴛ ᴇ ᴅ+ʙ ʏ+ғ ᴀ ᴠ ᴀ s
 </h3>
 
 <p align="center">
