@@ -1,12 +1,12 @@
 <div align="center">
 
-![My card name](https://cardivo.vercel.app/api?name=FAVAS%20-%20SB&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/FA9DZzH.jpegq=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_f_avas_&github=FAVAS-SB&)
+![My card name](https://cardivo.vercel.app/api?name=FAVAS%20-%20SB&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.imgur.com/FA9DZzH.jpegq=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=hasnulfavas&github=FAVAS-SB&)
 
 
 
 # FAVAS-SB
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+To+My+Profile+💖;Created+by+Favas;With+Love+FAVAS-SB)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+To+My+Profile+💖;Created+by+Favas;With+Love+FAVAS)](https://git.io/typing-svg)
 
 </div>
 
